@@ -1,2 +1,2 @@
-# web-scrapper
-Web scrapper with python
+# web-scraper
+Web scraper with python
